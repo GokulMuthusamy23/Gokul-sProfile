@@ -323,7 +323,7 @@ section{
     width: 80%;
 }
 .progress-line.sql span{
-    width: 80%;
+    width: 82%;
 }
 .progress-line.jsp span{
     width: 75%;
@@ -347,7 +347,7 @@ section{
     content: "80%";
 }
 .progress-line.sql span::after{
-    content: "80%";
+    content: "82%";
 }
 .progress-line.jsp span::after{
     content: "75%";
