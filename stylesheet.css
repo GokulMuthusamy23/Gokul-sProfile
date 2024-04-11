@@ -320,16 +320,16 @@ section{
     transform-origin: left;
 }
 .progress-line.java span{
-    width: 90%;
+    width: 80%;
 }
 .progress-line.sql span{
-    width: 92%;
+    width: 80%;
 }
 .progress-line.jsp span{
-    width: 85%;
+    width: 75%;
 }
 .progress-line.js span{
-    width: 80%;
+    width: 70%;
 }
 .progress-line span::after{
     position: absolute;
@@ -344,16 +344,16 @@ section{
     opacity: 0;
 }
 .progress-line.java span::after{
-    content: "90%";
+    content: "80%";
 }
 .progress-line.sql span::after{
-    content: "92%";
+    content: "80%";
 }
 .progress-line.jsp span::after{
-    content: "85%";
+    content: "75%";
 }
 .progress-line.js span::after{
-    content: "80%";
+    content: "70%";
 }
 .progress-line span::before{
     content: "";
